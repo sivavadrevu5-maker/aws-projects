@@ -3,6 +3,9 @@
 Real-time AWS project demonstrating secure application deployment inside private subnets using Bastion Host, Application Load Balancer, and Multi-AZ architecture.
 
 ---
+<img width="611" height="481" alt="vpc-example-private-subnets" src="https://github.com/user-attachments/assets/cbbe0415-20e8-48c3-b30f-e0eda0b35714" />
+
+
 
 # Project Overview
 
