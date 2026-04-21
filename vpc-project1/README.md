@@ -180,33 +180,14 @@ Private EC2 Instances
 
 Accessed application using ALB DNS URL:
 
-```text id="t5m9oq"
-http://<load-balancer-dns-name>
-```
+project-vpc-load-balancer-609031527.ap-southeast-2.elb.amazonaws.com
 
-Expected Response:
 
-```text id="v7z2ld"
-Hello from EC2 Server!
-Application deployed successfully.
-```
+# Result:
 
----
+<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/7c00876c-568e-4ea1-8c46-84bc73a2f41f" />
 
-# Skills Demonstrated
 
-* AWS Networking
-* Multi-AZ Architecture
-* VPC Design
-* Public and Private Subnet Deployment
-* Bastion Host Access
-* EC2 Administration
-* Load Balancer Configuration
-* Auto Scaling Group
-* Node.js Deployment
-* Linux and SSH Troubleshooting
-
----
 
 # Key Learning Outcome
 
@@ -214,16 +195,6 @@ This project helped in understanding how real-world production applications are 
 
 ---
 
-# Future Improvements
 
-* CI/CD Pipeline
-* Terraform Automation
-* PM2 Process Manager
-* HTTPS / SSL
-* Monitoring Setup
-
----
-
-# Conclusion
 
 Successfully implemented a production-grade AWS deployment architecture using VPC, private subnets, NAT Gateway, Bastion Host, Auto Scaling Group, and Application Load Balancer across two Availability Zones.
